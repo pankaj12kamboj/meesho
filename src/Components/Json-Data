@@ -1,0 +1,70 @@
+<Row md={2}>
+    <div className='image'>
+        <img src='images/p.png' alt='text' className='img1' onClick={()=> { }} />
+        <p><b>Purse</b></p>
+    </div>
+    <div className='image'>
+        <img src='images/b.png' alt='text' className='img2' />
+        <p><b>Beauity</b></p>
+    </div>
+</Row>
+<Row md={2}>
+    <div className='image'>
+        <img src='images/d.png' alt='text' className='img3' />
+        <p><b>Dress</b></p>
+    </div>
+    <div className='image'>
+        <img src='images/jewellery.png' alt='text' className='img4' />
+        <p><b>Jewellery</b></p>
+    </div>
+</Row>
+</div>
+<div className='container-box'>
+    <div>
+        <h3>Men's Wear</h3>
+    </div>
+    <Row md={2}>
+        <div className='image'>
+            <img src='images/m1.png' alt='text' className='img1' />
+            <p><b>Cloths</b></p>
+        </div>
+        <div className='image'>
+            <img src='images/m2.png' alt='text' className='img2' />
+            <p><b>Watchs</b></p>
+        </div>
+    </Row>
+    <Row md={2}>
+        <div className='image'>
+            <img src='images/m3.png' alt='text' className='img3' />
+            <p><b>Accessories</b></p>
+        </div>
+        <div className='image'>
+            <img src='images/m4.png' alt='text' className='img4' />
+            <p><b>Beauity Care</b></p>
+        </div>
+    </Row>
+</div>
+<div className='container-box'>
+    <div>
+        <h3>Kids Wear</h3>
+    </div>
+    <Row md={2}>
+        <div className='image'>
+            <img src='images/k1.png' alt='text' className='img1' />
+            <p><b>dress</b></p>
+        </div>
+        <div className='image'>
+            <img src='images/t2.png' alt='text' className='img2' />
+            <p><b>Beauity</b></p>
+        </div>
+    </Row>
+    <Row md={2}>
+        <div className='image'>
+            <img src='images/t3n.png' alt='text' className='img3' />
+            <p><b>Dress</b></p>
+        </div>
+        <div className='image'>
+            <img src='images/t4.png' alt='text' className='img4' />
+            <p><b>Jewellery</b></p>
+        </div>
+    </Row>
